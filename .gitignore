@@ -1,3 +1,7 @@
 dataset/
 model/
+content/
+headline/
+
+
 *.keras
