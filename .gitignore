@@ -4,6 +4,7 @@ content/
 headline/
 venv/
 Lib/
+serving/
 
 
 *.keras
